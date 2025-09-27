@@ -27,7 +27,7 @@ Telegram交流反馈群组：https://t.me/eooceu
 
 ## VPS一键四协议安装脚本
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sing-box.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Plgoutease/Sing-box/refs/heads/main/sing-box.sh)
 ```
 ## VPS一键梭哈脚本
 ```
